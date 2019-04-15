@@ -1,0 +1,19 @@
+{
+  "name": "responsivejohndoe",
+  "version": "1.0.0",
+  "description": "resposive website with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steevegv/ResponsiveJohnDoe.git"
+  },
+  "author": "steeve vadakkumchery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steevegv/ResponsiveJohnDoe/issues"
+  },
+  "homepage": "https://github.com/steevegv/ResponsiveJohnDoe#readme"
+}
